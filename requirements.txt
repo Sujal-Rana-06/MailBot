@@ -1,7 +1,6 @@
 langchain 
 wikipedia 
 langchain-community 
-langchain-openai
 langchain-anthropic
 python-dotenv
 pydantic
@@ -9,4 +8,6 @@ duckduckgo-search
 fastapi
 uvicorn
 langchain-google-community
-google-auth-oauthlab
+anthropic
+mcp
+google-api-python-client
