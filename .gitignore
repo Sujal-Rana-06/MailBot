@@ -5,3 +5,4 @@ __pycache__/
 venv/
 email-agent-ui/
 package-lock.json
+token.json
